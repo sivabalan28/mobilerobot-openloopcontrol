@@ -69,7 +69,6 @@ if __name__ == '__main__':
 ![output](./robofin.png)
 
 ## MobileRobot Movement Video:
-[![IMAGE ALT TEXT HERE](/mobilerob.png)
 
 ### https://youtube.com/shorts/56iA5aIbTvM?feature=share
 <br/>
